@@ -1,2 +1,2 @@
-# Tindog-CSS-Bootstrap
+# Tindog-CSS-Bootstrap Website showcasing CSS and Bootstrap working in conjunction 
 This small project I had a chance to use bootstrap and CSS. I skeleton project which was already made, it was my job to add design to website using CSS and make the webpage responsive using Bootstrap. I learnt where I could find bootstrap classes and learn what they do. Using bootstrap classes I learnt how different classes can make the webpage responsive and how it can rearange the contents on the webpage. This project allowed me to learn more and implent my CSS knowledge aswell understanding bootstrap can also be added to more design and both used in conjunction can really bring the flair and usabilty of a website.
